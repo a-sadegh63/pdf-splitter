@@ -6,7 +6,7 @@ This script allows you to split PDF files into multiple parts based on the desir
 
 1. Run the script by executing the following command in the terminal:
 ```
-bash pdf_splitter.sh
+bash split_pdf.sh
 ```
 
 2. You will be prompted to choose an option:
